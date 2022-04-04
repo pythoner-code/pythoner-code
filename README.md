@@ -30,6 +30,6 @@ You can click the Preview link to take a look at your changes.
     <br>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pythoner-code&theme=dark" alt="Debashish" />
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythoner-codeh&layout=compact&langs_count=8&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythoner-code&layout=compact&langs_count=8&theme=dark">
     
 </div>
