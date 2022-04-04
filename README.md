@@ -31,8 +31,8 @@ You can click the Preview link to take a look at your changes.
     <hr>
     <img src="https://github-readme-stats.vercel.app/api?username=debanath&show_icons=true&hide_border=true&theme=dark&count_private=true">
     <br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debanath&theme=dark" alt="Debashish" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pythoner-code&theme=dark" alt="pythoner-code" />
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debanath&layout=compact&langs_count=8&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythoner-code&layout=compact&langs_count=8&theme=dark">
     
 </div>
