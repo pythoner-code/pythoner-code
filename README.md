@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pythoner-code.
 - 👀 I’m interested in cybersecurity and DevOps.
 - 🌱 I’m currently learning computer science and engineering.
-- 💞️ I’m an intern at NTRDC, CFB-India of 2021 batch-4.
+- 💞️ Ex-intern at NTRDC, CFB-India of 2021 batch-4.
 - 📫 You can contact me at https://www.linkedin.com/in/himanshu-yadav-41b95b1bb/
 
 <!---
